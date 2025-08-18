@@ -77,7 +77,7 @@ qualidade do software entregue. Apresentamos na revisão de literatura acontecim
 ### Etapa III
 * RNF-01: Fazer o deploy da aplicação em um ambiente de produção - <img margin-top="20px" align="center" height="20" width="20" src="/src/assets/readme/ok.png">
 * RNF-02: Criar a documentação do projeto - <img margin-top="20px" align="center" height="20" width="20" src="./src/assets/readme/loading.gif">
-* RNF-03: Criar testes de unidade e integração - <img margin-top="20px" align="center" height="20" width="20" src="/src/assets/readme/pending.png">
+* RNF-03: Criar testes de unidade e integração - <img margin-top="20px" align="center" height="20" width="20" src="/src/assets/readme/loading.gif">
 * RNF-04: Criar testes de usabilidade - <img margin-top="20px" align="center" height="20" width="20" src="/src/assets/readme/pending.png">
 
 ## Como executar o projeto
@@ -177,6 +177,7 @@ http://localhost:8080/swagger-ui.html
 ``OBS:`` Para acessar a documentação da API é necessário com a api rodando na mesma porta, ou seja, se a api estiver
 rodando na porta ``8080``, a documentação estará disponível no endereço ``http://localhost:8080/swagger-ui.html``.
 
+## Acessar o sistema
 Se já tiver cadastrado usuário e senha, é só logar e acessar o sistema, caso contrário
 contate o administrador do sietema para que seja atribuído ao usuário um usuário e senha.
 
